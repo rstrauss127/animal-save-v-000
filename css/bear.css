@@ -8,12 +8,11 @@ html {
   right: 0;
 }
 
-@@media only screen (max-width: 1196px) {
-  #bear{
-    position: fixed;
-    left: 800px;
-  }
-
+@media only screen (max-width: 1196px) {
+    #bear {
+      position: fixed;
+      left: 800px;
+    }
 }
 
 /* Write your solution here */
